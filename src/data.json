@@ -1,61 +1,61 @@
 {
   "greeting": {
-    "title": "장세모 \uD83D\uDC8D 황네모\n결혼합니다!",
-    "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
+    "title": "조용규 \uD83D\uDC8D 장혜주\n결혼합니다!",
+    "message": "서로가 서로를 만나 하나가 되기까지.\n이제 저희 두 사람,\n평생 한 곳을 바라보며 살고자 합니다.\n부디 참석하시어 저희의 새로운 출발을 지켜봐 주시기 바랍니다.\n늘 처음의 마음처럼 행복하게 살겠습니다.",
     "host": {
       "groom": {
-        "name": "세모",
-        "relation": "아들",
+        "name": "용규",
+        "relation": "장남",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "조율희"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "정진숙"
           }
         ]
       },
       "bride": {
-        "name": "네모",
-        "relation": "딸",
+        "name": "혜주",
+        "relation": "장녀",
         "parents": [
           {
             "relation": "아버지",
-            "name": "황아빠"
+            "name": "장석봉"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "공수희"
           }
         ]
       }
     },
-    "eventDetail": "2024년 2월 17일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "2026년 1월 17일 (토) 12:00\n분당앤스퀘어 4층 컨벤션홀"
   },
   "hostInfo": [
     {
       "host": "신랑측",
       "accountInfo": [
         {
-          "name": "장세모",
+          "name": "조용규",
           "relation": "신랑",
-          "bank": "카카오뱅크",
-          "account": "1234-56-789012",
+          "bank": "신한은행",
+          "account": "110-210-593513",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "장아빠",
+          "name": "조율희",
           "relation": "아버지",
-          "bank": "농협",
+          "bank": "xx은행",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "정진숙",
           "relation": "어머니",
-          "bank": "농협",
+          "bank": "yy은행",
           "account": "123-45-678901"
         }
       ]
@@ -64,44 +64,44 @@
       "host": "신부측",
       "accountInfo": [
         {
-          "name": "황네모",
+          "name": "장혜주",
           "relation": "신부",
-          "bank": "토스뱅크",
+          "bank": "zz은행",
           "account": "1234-5678-9012",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "황아빠",
+          "name": "장석봉",
           "relation": "아버지",
-          "bank": "농협",
+          "bank": "aa은행",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "공수희",
           "relation": "어머니",
-          "bank": "농협",
+          "bank": "bb은행",
           "account": "123-45-678901"
         }
       ]
     }
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
-    "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
+    "address1": "분당앤스퀘어 4층 컨벤션홀",
+    "address2": "경기 성남시 분당구 구미동 159\n(수인분당선 오리역 6번출구 도보 3분)\n☎ 031-728-5300",
+    "naverMap": "https://map.naver.com/p/directions/-/14149474.182061,4486626.6337252,%EB%B6%84%EB%8B%B9%EC%95%A4%EC%8A%A4%ED%80%98%EC%96%B4,11872992,PLACE_POI/-/transit?c=16.00,0,0,0,dh",
     "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "lat": 37.3669,
+    "lon": 127.1085
   },
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 분당선 오리역 하차 후, 6번 출구 에스컬레이터 이용\n\uD83D\uDC49\uD83C\uDFFB50m 거리 내에 분당앤스퀘어가 있습니다."
     },
     {
-      "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+      "title": "\uD83D\uDCCD 주차장 안내",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 분당앤스퀘어 건물 뒷편 홈플러스·CGV·애플프라자 주차장 입구 이용\n\uD83D\uDC49\uD83C\uDFFB지하 3·4층 주차장 이용\n(웨딩홀 전용 엘리베이터 7·8호기를 이용하시면 편리합니다)"
     }
   ],
   "emojis": [
